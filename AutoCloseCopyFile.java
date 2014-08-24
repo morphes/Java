@@ -1,5 +1,5 @@
 import java.io.*;
-
+  
 public class AutoCloseCopyFile
 {
   public static void main(String[] args) throws IOException
